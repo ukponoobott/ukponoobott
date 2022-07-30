@@ -1,5 +1,13 @@
 # Hi there, its Ukpono here👋
-## Cloud Engineer || DevOps Enthusiast 
+## Cloud Engineer with experience in designing mission critical infrastructure on Azure and AWS.
+
+## Experienced in DevOps to manage SDLC 
+
+- Infrastructure as Code: Terraform, ARM Templates, and CloudFormation
+
+- Containers: Docker, Kubernetes (AKS, EKS)
+
+
 <!--
 **ukponoobott/ukponoobott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
