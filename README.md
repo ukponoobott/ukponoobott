@@ -1,6 +1,8 @@
 # Hi there, it's Ukpono here👋
-## I have over three years of experience as a Cloud Engineer, adept at devising and executing scalable solutions within enterprise settings. My expertise lies in Azure, Terraform, Kubernetes, Ansible, CICD pipelines, and Automation, which collectively minimize manual intervention. By harnessing DevSecOps methodologies and leading-edge tools, I champion operational excellence, ensuring the creation of secure, resilient, and easily scalable solutions. My primary objective is to aid businesses in enhancing decision-making through technology-driven resolutions underpinned by a robust data-centric approach.
 
+### I have over three years of experience as a Cloud Engineer, adept at devising and executing scalable solutions within enterprise settings. My expertise lies in Azure, Terraform, Kubernetes, Ansible, CICD pipelines, and Automation, which collectively minimize manual intervention. By harnessing DevSecOps methodologies and leading-edge tools, I champion operational excellence, ensuring the creation of secure, resilient, and easily scalable solutions. My primary objective is to aid businesses in enhancing decision-making through technology-driven resolutions underpinned by a robust data-centric approach.
+
+## Skills
 - Cloud Platforms: Azure, AWS
 - Infrastructure as Code: Terraform, Azure Resource Manager, CloudFormation
 - Scripting (Python, Bash, and PowerShell)
